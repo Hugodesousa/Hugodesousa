@@ -1,4 +1,9 @@
 
+<style type="text/css">
+.tec {
+    margin: 8px;
+}
+</style>
 
 <div align="center">
   <img height="50px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
@@ -72,8 +77,3 @@ function(status + skills) {
   
 </div>
 
-<style type="text/css">
-.tec {
-    margin: 8px;
-}
-</style>
