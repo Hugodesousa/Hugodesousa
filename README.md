@@ -1,10 +1,4 @@
 
-<style type="text/css">
-.tec {
-    margin: 8px;
-}
-</style>
-
 <div align="center">
   <img height="50px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
 </div>
@@ -52,7 +46,7 @@ function(status + skills) {
 ### Ferramentas e tecnologias que utilizo:
 
 <div>
-  <img align="center" class='tec' alt="html" height="40"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img margin: "50" align="center"  alt="html" height="40"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" class='tec' alt="css" height="40"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" class='tec' alt="javascript" height="40"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" class='tec' alt="react" height="40"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
