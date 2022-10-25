@@ -14,7 +14,7 @@ const skills =
 
   languages: [Javascript, CSS, HTML, SQL],
 
-  ORM: [Sequelize]
+  ORM: [Sequelize],
   
   ide: [Vs Code, MySQL Workbench],
   
