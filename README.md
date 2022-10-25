@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="50px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
 </div>
@@ -8,17 +7,12 @@ const name = 'Hugo de Sousa';
 
 const status = 'Buscando lugar no mercado de tralho como Desenvolvedor WEB Full Stack';
 
-const skills = 
-{
+const skills = {
 
   languages: [Javascript, CSS, HTML, SQL],
-
   ORM: [Sequelize],
-  
   ide: [Vs Code, MySQL Workbench],
-  
   frameworks: [ React ],
-  
   platforms: [ Docker Container, Linux, Windows],
   
 };
