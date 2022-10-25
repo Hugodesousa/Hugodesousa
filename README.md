@@ -27,17 +27,7 @@ function(status + skills) {
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugodesousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodesousa&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
-</div>
-
----
-
-  
-
-
-### Ferramentas e tecnologias que utilizo:
+# Ferramentas e tecnologias que utilizo:
 
 <div>
   <img margin: "50" align="center"  alt="html" height="40"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -54,9 +44,10 @@ function(status + skills) {
 
 </div>
 
+
 ---
 
-### Contato
+# Contato
 
 <div>
   <a href="https://www.linkedin.com/in/hugo-de-sousa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -64,4 +55,15 @@ function(status + skills) {
  
   
 </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugodesousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodesousa&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+</div>
+
+
+
+  
+
+
+
 
