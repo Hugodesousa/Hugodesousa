@@ -32,7 +32,7 @@ function(status + skills) {
 # Ferramentas e tecnologias que utilizo:
 
 <div>
-  <img align="center"  class='tec' alt="html" height="40"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center"  class='tec' alt="html" height="40"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img align="center" class='tec' alt="css" height="40"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" class='tec' alt="javascript" height="40"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" class='tec' alt="react" height="40"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -61,14 +61,7 @@ function(status + skills) {
 
 
 
-<mark>
-what is DataBase
-  <style>
-    .tec {
-      margin: 5px
-    }
-  </style>
-</mark>  
+
 
 
 
