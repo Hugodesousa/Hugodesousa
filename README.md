@@ -5,7 +5,7 @@
 ```js
 const name = 'Hugo de Sousa';
 
-const status = 'Buscando lugar no mercado de trabalho como Desenvolvedor WEB Full Stack';
+const status = 'Buscando lugar no mercado de trabalho como Desenvolvedor WEB';
 
 const skills = {
 
@@ -22,7 +22,7 @@ const skills = {
 };
 
 function(status + skills) {
-  return 'Desenvolvedor WEB Full Stack'
+  return 'Desenvolvedor WEB'
 };
 ```
 
