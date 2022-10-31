@@ -5,19 +5,19 @@
 ```js
 const name = 'Hugo de Sousa';
 
-const status = 'Buscando lugar no mercado de tralho como Desenvolvedor WEB Full Stack';
+const status = 'Buscando lugar no mercado de trabalho como Desenvolvedor WEB Full Stack';
 
 const skills = {
 
-  languages: [Javascript, CSS, HTML, SQL],
+  languages: [Javascript],
 
   ORM: [Sequelize],
 
-  ide: [Vs Code, MySQL Workbench],
+  ide: [Vs Code],
 
   frameworks: [ React ],
   
-  platforms: [ Docker Container, Linux, Windows],
+  Other: [ Docker Container ],
   
 };
 
