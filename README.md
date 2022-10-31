@@ -9,7 +9,7 @@ const status = 'Buscando lugar no mercado de trabalho como Desenvolvedor WEB';
 
 const skills = {
 
-  languages: [Javascript],
+  languages: [Javascript, Node],
 
   ORM: [Sequelize],
 
