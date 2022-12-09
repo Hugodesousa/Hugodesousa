@@ -15,7 +15,7 @@ const skills = {
 
   ide: [Vs Code],
 
-  frameworks: [ React ],
+  frameworks: [ React, Express ],
   
   Other: [ Docker Container ],
   
