@@ -9,13 +9,15 @@ const status = 'Buscando lugar no mercado de trabalho como Desenvolvedor WEB';
 
 const skills = {
 
-  languages: [Javascript, Node],
+  languages: [Javascript, Node, typescript],
+  
+  dataBases: [MySQL, MongoDB],
 
   ORM: [Sequelize],
 
   frameworks: [ React, Express ],
   
-  Other: [ Docker Container ],
+  other: [ Docker Container ],
   
 };
 
