@@ -13,8 +13,6 @@ const skills = {
 
   ORM: [Sequelize],
 
-  ide: [Vs Code],
-
   frameworks: [ React, Express ],
   
   Other: [ Docker Container ],
